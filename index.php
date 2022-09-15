@@ -363,6 +363,10 @@
 									<h3 class="h2-xl wow fadeInUp " data-wow-delay="0.3s">
 										Traemos las mejores cosas para ti
 									</h3>	
+
+									<p>Somos un equipo de expertos en las diferentes áreas que abarcan nuestros servicios que 
+										nos permite estar siempre dispuestos a brindar el mejor desempeño y calidad en nuestro trabajo.
+										Con muchas ganas de trabajar y hacer realidad cada idea en el mundo digital.</p>
 								
 									<!-- Text -->
 									<p class="h3 p-md wow fadeInUp" data-wow-delay="0.5s">
@@ -420,24 +424,25 @@
 
 								<!-- Text -->
 								<p class=" wow fadeInUp" data-wow-delay="0.5s">
-								   An enim nullam tempor sapien gravida donec enim ipsum pretium porta justo integer at odio velna vitae
-								   auctor integer congue magna at  purus pretium ligula rutrum luctus risus ultrice enim gravida
+								Nos especializamos en el desarrollo, implementación y optimización de páginas web. 
+								Proveemos soluciones personalizadas para cada necesidad. 
+								Ponemos en práctica un enfoque estratégico de marketing que permite lograr páginas web que 
+								obtienen resultados concretos.
 								</p> 
 
 								<!-- List -->
 								<ul class="content-list">
 
 									<li class=" wow fadeInUp" data-wow-delay="0.7s">
-									   Vitae auctor integer congue magna at pretium purus
+									Desarrollos HTML5 totalmente adaptables y responsive
 									</li>
 
 									<li class=" wow fadeInUp" data-wow-delay="0.8s">
-										Vitae auctor integer congue magna at pretium purus pretium ligula rutrum luctus risus
-									    enim ipsum blandit
+									Seguridad y responsabilidad
 									</li>
 
 									<li class=" wow fadeInUp" data-wow-delay="0.9s">
-									   Magna at pretium purus pretium ligula rutrum
+									Te ayudamos a crecer, integrar y escalar la tecnología de tu equipo.
 									</li>
 
 								</ul> 
